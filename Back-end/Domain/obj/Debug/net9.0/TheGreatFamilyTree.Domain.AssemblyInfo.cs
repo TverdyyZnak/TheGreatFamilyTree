@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheGreatFamilyTree.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8463b4f727993cab9ef9cd553a839976e89ceb79")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheGreatFamilyTree.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheGreatFamilyTree.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
